@@ -1,0 +1,17 @@
+<h1>Marjolijn Ticheler</h1>
+<h2>a.k.a. mama-lijn </h2>
+<hr />
+<p> 
+    <h2>Contact information:</h2>
+    <h3>If you want to contact me I'm happy to hear from you.<h3>
+    <h4>You can use the routes to contact me:</h4>
+    <ul>
+        <li><h4>For work related stuff you can contact me via <a href="https://www.linkedin.com/in/marjolijn-ticheler-01274562/">Linkedin</a>.</h4></li>
+        <li><h4>Otherwise you can contact me via my email:
+            <address>
+                <a href="marjolijnticheler@gmail.com">marjolijnticheler@gmail.com</a><br />
+            </address>
+        </h4></li>
+        <h5>It would be nice hearing from you, maybe you can tell me how to make a link for the email address :-) or how to make smileys, or maybe if you are interested in the same things as me (see <a href="./About me Marjolijn.html">About me Marjolijn</a>) or if you have other kindly things that you would like to share with me.<h5>
+        <h5>Okay I've found out an "address" element that it's not working yet, nor is it in line with the text I wrote, but hey I'm one step closer (while it already looks like a link :-).</h5>
+    </ul>
